@@ -1,0 +1,15 @@
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\bin\Debug\net6.0\UebungMitarbeit3.exe
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\bin\Debug\net6.0\UebungMitarbeit3.deps.json
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\bin\Debug\net6.0\UebungMitarbeit3.runtimeconfig.json
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\bin\Debug\net6.0\UebungMitarbeit3.dll
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\bin\Debug\net6.0\ref\UebungMitarbeit3.dll
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\bin\Debug\net6.0\UebungMitarbeit3.pdb
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.csproj.AssemblyReference.cache
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.AssemblyInfoInputs.cache
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.AssemblyInfo.cs
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.csproj.CoreCompileInputs.cache
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.dll
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\ref\UebungMitarbeit3.dll
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.pdb
+C:\Users\nazli\OneDrive\Desktop\APR\UebungMitarbeit\UebungMitarbeit3\obj\Debug\net6.0\UebungMitarbeit3.genruntimeconfig.cache
